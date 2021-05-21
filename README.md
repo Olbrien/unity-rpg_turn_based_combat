@@ -26,7 +26,7 @@ Some spells are permenent through the entire fight, others have a timer.
 
 Spells can debuff as well, such as Clumsy (you make the enemy slower), Weaken (you make the enemy weaker), Deflate Armor (enemies have less armor), Deflate Magic (enemies have less magic resistance), Feeblemind (enemies spells are weaker) and Dispel (removes buffs from the enemy).
 
-Spells can also heal.\
+Spells can also heal.
 
 All spells have a level of casting, for example, Dispel 1 (Removes One Random Stats from the Target), Dispel 3 (Removes Three Random Stats from the target) and so on.
 
