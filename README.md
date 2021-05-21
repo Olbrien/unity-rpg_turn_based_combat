@@ -4,6 +4,23 @@ These are two projects I made to practice real time based combat. It was also a 
 It was never intended to be finished, just for practice.
 
 
+*The quality of the gifs aren't that great you can watch them in good quality at the following links*
+
+[Menu](https://www.youtube.com/watch?v=XUiwp2_BCi4)\
+[Gameplay](https://www.youtube.com/watch?v=PjwG1coGnrI)
+
+
+<img src="https://github.com/Olbrien/unity-rpg_turn_based_combat/blob/main/Extras/Pictures/MyRPG21.gif">
+<img src="https://github.com/Olbrien/unity-rpg_turn_based_combat/blob/main/Extras/Pictures/MyRPG22.gif">
+<img src="https://github.com/Olbrien/unity-rpg_turn_based_combat/blob/main/Extras/Pictures/MyRPG23.gif">
+<img src="https://github.com/Olbrien/unity-rpg_turn_based_combat/blob/main/Extras/Pictures/MYRPG3.gif">
+
+
+<img src="https://github.com/Olbrien/unity-rpg_turn_based_combat/blob/main/Extras/Pictures/k2RXBr.gif">
+<img src="https://github.com/Olbrien/unity-rpg_turn_based_combat/blob/main/Extras/Pictures/MyRPG2.gif">
+
+
+
 You control a Paladin and a Wizard with the goal to defeat the hord of enemies coming at you.
 
 The combat is iteractive.\
@@ -46,13 +63,8 @@ Experience.
 
 
 
-
-
 Due to restrictions of github file sizes, if you want to run this project you have to unzip the files at:\
 [Here](https://github.com/Olbrien/unity-rpg_turn_based_combat/tree/main/My%20First%20RPG/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/linkresult_4D02B964B4F047C621FE35DDFC005FCA)\
 [And Here](https://github.com/Olbrien/unity-rpg_turn_based_combat/tree/main/My%20First%20RPG%202/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/linkresult_E403CF1687D9D52BF4DDDEE1FADAB94B)
 
-*The quality of the gifs aren't that great you can watch them in good quality at the following links*
 
-<img src="https://github.com/Olbrien/unity-rpg_turn_based_combat/blob/main/Extras/Pictures/k2RXBr.gif">
-<img src="https://github.com/Olbrien/unity-rpg_turn_based_combat/blob/main/Extras/Pictures/MyRPG2.gif">
